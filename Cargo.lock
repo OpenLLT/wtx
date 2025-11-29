@@ -2079,6 +2079,7 @@ dependencies = [
  "aes-gcm",
  "arbitrary",
  "argon2",
+ "async-io",
  "async-net",
  "base64",
  "borsh",
